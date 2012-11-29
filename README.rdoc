@@ -1,10 +1,10 @@
-Ratcheted
+=== Ratcheted
 
 A Ruby gem built to provide simple access to the Ratchet rapid prototyping framework.
 
 Built by @matthewlebel
 
-Installation
+=== Installation
 
 **Step 1**
 
@@ -30,12 +30,12 @@ Require `ratchet.css` in your CSS manifest (e.g. `application.css`)
 
      *= require ratchet
 
-Usage
+=== Usage
 
-See [Ratchet's Documentation](http://maker.github.com/ratchet/) for full
+See {Ratchet's Documentation}[http://maker.github.com/ratchet/] for full
 usage instructions.
 
-Contributing
+=== Contributing
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
