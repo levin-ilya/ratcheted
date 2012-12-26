@@ -1,6 +1,6 @@
 module Ratcheted
   class Engine < ::Rails::Engine
-    initializer 'ratcheted.load_static_assets' do |app|
+    initializer 'ratcheted.load_ratcheted' do |app|
       app.middleware.use ::ActionDispatch::Static, "#{root}/vendor"
     end
   end
